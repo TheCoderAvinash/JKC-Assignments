@@ -1,3 +1,4 @@
+//Write a C program to convert distance(km) into meters and centimeters.
 #include<stdio.h>
 main(){
     float dis,meters,centis;
