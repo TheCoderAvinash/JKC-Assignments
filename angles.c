@@ -17,4 +17,5 @@ int main(){
     }
     else
     printf("A triangle is not possible");
+return 0;
 }
