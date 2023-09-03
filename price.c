@@ -5,17 +5,17 @@ If the cost price and the selling price are equal,the program displays the messa
 #include <stdio.h>
 int main(){
     float cp,sp,p,l;
-    printf("Enter the Cost Price and the Seling price: ");
+    printf("Enter the Cost Price and the Selling price: ");
     scanf("%f%f", &cp,&sp);
     if(sp>cp){
         printf("Profit earned.");
         p= 100*(sp-cp)/cp;
-        printf("Profit amount is %.2f and is %.2f percent of the Cost Price",sp-cp,p);
+        printf("Profit amount is %.2f and is %.2f%% of the Cost Price",sp-cp,p);
     }
     else if(sp<cp){
         printf("Loss faced.");
         l= 100*(cp-sp)/cp;
-        printf("Profit amount is %.2f and is %.2f percent of the Cost Price",cp-sp,l);
+        printf("Loss amount is %.2f and is %.2f%% of the Cost Price",cp-sp,l);
     }
     else
     printf("Neither Profit nor Loss");
