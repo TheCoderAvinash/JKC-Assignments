@@ -19,7 +19,7 @@ int main(){
         }
     }
     else
-    printf("All number are equal");
+    printf("All numbers are equal");
 
 return 0;
 }

@@ -17,5 +17,5 @@ int main(){
     else
     printf("%d is neither divisible by 3 nor by 5", a);
 
-return 0;
+   return 0;
 }
