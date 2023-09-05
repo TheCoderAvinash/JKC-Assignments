@@ -9,22 +9,18 @@ int main(){
     scanf("%d", &cost);
     if(cost<=2000){
         discount = 5;
-        char gift[] ="Calculator";
     }
     else if(cost<=5000){
         discount = 10;
-        char gift[] = "School Bag";
     }
 
-    else if(cost<=1000){
+    else if(cost<=10000){
         discount = 15;
-        char gift[] = "Wall Clock";
     }
     else{
         discount = 20;
-        char gift[] = "Wrist Watch";
     }
 
-    printf("Your Bill.\nTotal Cost: %d \nDiscount: %.1f\nGift: %s", cost, discount);
+    printf("---Your Bill---\nTotal Cost: %d \nDiscount: %.1f%%\nGift:", cost, discount);
     return 0;
 }
