@@ -9,29 +9,32 @@
  by the customer along with the gift. */
 
 #include <stdio.h>
-#include <string.h>
-int main(){
-    int cost;
+int main()
+{
+  int cost;
+  printf("Enter the Cost: ");
+  scanf("%d", &cost);
+  if (cost <= 2000)
+  {
+    cost = cost - (cost / 20); // 5% discount
+    printf("Gift: Calculator\n");
+  }
+  else if (cost <= 5000)
+  {
+    cost = cost - (cost / 10); // 10% discount
+    printf("Gift: School Bag\n");
+  }
 
-    printf("Enter the Total Cost: ");
-    scanf("%d", &cost);
-    if(cost<=2000){
-      cost = cost- (cost/20);//5% discount
-      printf("Gift: Calculator\n");
-    }
-    else if(cost<=5000){
-      cost = cost- (cost/10);//10% discount
-       printf("Gift: School Bag\n");
-    }
-
-    else if(cost<=10000){
-      cost = cost-((15*cost)/100);//15% discount
-       printf("Gift: Wall Clock\n");
-    }
-    else{
-      cost = cost- (cost/5);//20% discount
-       printf("Gift: Wrist Watch\n");
-    }
-    printf("Total Cost: %d\n", cost);
-    return 0;
+  else if (cost <= 10000)
+  {
+    cost = cost - ((15 * cost) / 100); // 15% discount
+    printf("Gift: Wall Clock\n");
+  }
+  else
+  {
+    cost = cost - (cost / 5); // 20% discount
+    printf("Gift: Wrist Watch\n");
+  }
+  printf("Total Cost: %d\n", cost);
+  return 0;
 }
