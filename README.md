@@ -1,5 +1,6 @@
 # JKC-Assignments
 All the assignments of C language in JK College will be uploaded here. Feel free to star this repo, it means a lot❤💖.
+Click here to access the book: [Let Us C](https://github.com/TheCoderAvinash/JKC-Assignments/blob/main/Let%20us%20C%20by%20Yashwant%20Kanetkar.pdf)
 
 ## Caution(for the beginners)
 
