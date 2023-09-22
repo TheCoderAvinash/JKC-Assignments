@@ -10,3 +10,5 @@ int main(){
     printf("s=%.1f",s);
     return 0;
 }
+
+

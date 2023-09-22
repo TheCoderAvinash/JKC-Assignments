@@ -1,4 +1,4 @@
-/*Print the following pattern usinf nested loop:
+/*Print the following pattern using nested loop:
     1
     23
     456
@@ -54,3 +54,6 @@ int main()
     }
     return 0;
 }
+
+
+
