@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments",
-      "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/build/Debug/outDebug",
+      "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/whileLoops",
+      "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/whileLoops/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
