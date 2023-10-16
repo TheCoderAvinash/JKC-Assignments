@@ -8,27 +8,31 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-<<<<<<< Updated upstream
+<<< Updated upstream
  clean
       "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Switch-Case",
       "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Switch-Case/build/Debug/outDebug",
 
-
-=======
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
+<<< Updated upstream
+>>> Stashed changes
 
       "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/whileLoops",
       "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/whileLoops/build/Debug/outDebug",
 
-<<<<<<< Updated upstream
+<<< Updated upstream
  main
-=======
-=======
+
+<<< clean
       "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Switch-Case",
       "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Switch-Case/build/Debug/outDebug",
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+>>> Stashed changes
+
+
+      "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Switch-Case",
+      "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Switch-Case/build/Debug/outDebug",
+>>> Stashed changes
+>>> Stashed changes
+>>> main
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
