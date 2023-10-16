@@ -8,8 +8,16 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+ clean
       "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Switch-Case",
       "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Switch-Case/build/Debug/outDebug",
+
+
+
+      "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/whileLoops",
+      "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/whileLoops/build/Debug/outDebug",
+
+ main
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
