@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+       <<<<<<< push
       "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Arrays",
       "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Arrays/build/Debug/outDebug",
+
+      "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Switch-Case",
+      "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Switch-Case/build/Debug/outDebug",
+      >>>>>>>> main
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
