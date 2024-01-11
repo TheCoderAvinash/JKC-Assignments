@@ -1,6 +1,6 @@
 # JKC-Assignments
 All the assignments of C language in JK College will be uploaded here. Feel free to star this repo, it means a lot❤💖.
-Click here to access the book: [Let Us C](https://drive.google.com/file/d/1Yvq27-qsSPOxjJakf1cXpWq76L0F0cu_/view)
+Click here to access the book: [Let Us C](https://drive.google.com/file/d/0B78A_rsP6RDSX0FRangwWjJKNEE/view?usp=drivesdk&resourcekey=0-UvLt4pht8pp9x1lTsemgJQ)
 
 Also, if you're looking for a refernce book for Statistics. We've arranged you one: [Mathmatical Statistics](https://drive.google.com/file/d/1cy3aFFiBNNuJ6fTzPtAPeVB1dS-ibnYP/view?usp=drive_link)
 
