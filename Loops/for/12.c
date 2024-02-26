@@ -6,7 +6,7 @@ int main(){
     {
         for(j=5;j>=i;j--)
             printf(" ");
-        for(k=1;k<=i;k++)
+        for(k=0;k<i;k++)
             printf("%c",c++);
         c--;
         for(l=1;l<i;l++)
@@ -17,8 +17,8 @@ int main(){
 return 0;
 }
 /*Expected Output
-     A
-   ABBA
+    A
+   ABA
   ABCBA
  ABCDCBA
 ABCDEDCBA

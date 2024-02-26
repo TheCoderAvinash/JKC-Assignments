@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/PYQs",
-      "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/PYQs/build/Debug/outDebug",
+      "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Loops/for",
+      "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/Loops/for/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
