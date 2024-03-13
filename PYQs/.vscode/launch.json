@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/PYQs/2019",
-      "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/PYQs/2019/build/Debug/outDebug",
+      "cwd": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/PYQs",
+      "program": "c:/Users/acer/OneDrive/Documents/GitHub/JKC-Assignments/PYQs/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
