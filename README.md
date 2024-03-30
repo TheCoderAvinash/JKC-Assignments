@@ -1,3 +1,4 @@
+
 # JKC-Assignments  🏫 🎒 📚 ✍🏽 
 All the assignments of Computer Science(Hons.) in JK College will be uploaded here. `Feel free to star this repo, it means a lot❤💖.`
 Our Goal is to provide 👩🏽‍🎓students👨🏽‍🎓 a hassle-free study solution so the students can focus on their studies and not on finding the resources, and ***ace every test***.
@@ -6,6 +7,7 @@ It is strictly advised not to open the following files <br>
 *`.vscode`* <br>
 *`.gitattributes`* <br>
 *`.gitignore`* <br>
+
 Since you're new to GitHub, you may get stressed by any error occured.
 
 ## Usage
