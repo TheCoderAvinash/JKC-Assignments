@@ -15,6 +15,7 @@ spongeBob = Patrick = Squidward = Sandy = 21
 name = "Avinash"
 print(name.find("A") #returns the position index
 print(name.replace("A","O") #replaces the old word with new word
+
 print(name.upper()) #UPPERCASES the string
 print(name.lower()) #lowercases the string
 print(name.isDigit()) #checks if string has digits or not, bool
@@ -79,3 +80,18 @@ print(max(a,b,c)) #returns the max among them
 print(min(a,b,c)) #returns the min among them
 print(abs(pi)) #returns the absolute value |pi|mod of pi
 ```
+
+# string slicing  ->   varName[start:stop:step] 
+## if you leave start and stop empty, Python would count it as beginning and end of the string
+```
+name = "Avinash Mallick"
+fname = name[:7] #Avinash
+lname = name[8:] #Mallick
+funky = name[::2] #from beginning til end and prints every third character i.e. AiahMlik
+revName = name[::-1] #reverses the string by indexing backwards
+#slice() function
+website = "https://google.com" 
+slicey = slice(7,-4)
+print(website[slicey]) #google 
+```
+
